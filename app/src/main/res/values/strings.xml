@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OwnBitmap</string>
+    <string name="S_INFO">Info</string>
+    <string name="S_CREATE">Create</string>
+    <string name="S_ERASE">Erase</string>
+    <string name="S_LINES">Lines</string>
+    <string name="S_RECTS">Rects</string>
+    <string name="S_ELLIPSES">Ellipses</string>
+    <string name="S_CREATE_INFO">Creating bitmap %dx%d</string>
+    <string name="S_CLEAR_INFO">Clearing bitmap!</string>
+    <string name="S_DRAWLINES">Draw lines!</string>
+    <string name="S_DRAWRECTS">Draw rects!</string>
+    <string name="S_DRAWELLIPSES">Draw ellipses!</string>
+</resources>
